@@ -3,7 +3,7 @@
 
 Currently improving my technical skills through bootcamps and open-source courses, looking ways to become better.
 
-- 📚 I’m currently learning : **Web Development React/ReactNative with NodeJs, Typescript**
+- 📚 I’m currently learning : **Web Development Angular8+ with NodeJs, Typescript**
 
 - 📫 How to reach me **mateusboxxx@gmail.com**
 
