@@ -1,9 +1,9 @@
 <h1 align="center">Hello from Brazil 👋, I'm Mateus Menezes</h1>
-<h3 align="center">A passionate Web & Mobile developer</h3>
+<h3 align="center">A passionate developer</h3>
 
-Currently improving my technical skills through bootcamps and open-source courses, looking ways to become better.
+Currently improving my technical skills through books ,open-source code and courses, looking ways to become better.
 
-- 📚 I’m currently learning : **Web Development ReactJs with Python and NodeJs(Certified)**
+- 📚 I’m currently learning one of this : **C#, Python, Java and Node**
 
 - 📫 How to reach me **mateusboxxx@gmail.com**
 
